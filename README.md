@@ -8,7 +8,7 @@ BayesianMacroPy est un projet centré sur l'économétrie bayésienne avec Pytho
 
 ## Résumé du Projet
 
-Ce projet de Master 1 en Économie appliquée vise à analyser les indicateurs macroéconomiques des pays entre 2000 et 2023 à l’aide de **Python**. Les principaux indicateurs étudiés sont le **PIB par habitant**, les **dépenses publiques totales**, les **dépenses en éducation et santé**, et le **taux de chômage**.  
+Ce projet vise à analyser les indicateurs macroéconomiques des pays entre 2000 et 2023 à l’aide de **Python**. Les principaux indicateurs étudiés sont le **PIB par habitant**, les **dépenses publiques totales**, les **dépenses en éducation et santé**, et le **taux de chômage**.  
 
 L'objectif est de révéler des **relations structurelles**, d’identifier les tendances et d’extraire des **insights significatifs** grâce à des analyses descriptives, des matrices de corrélation et une **Analyse en Composantes Principales (ACP)**.
 
